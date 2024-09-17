@@ -6,7 +6,7 @@ use chrono::Local;
 
 fn main() -> std::io::Result<()> {
     let file_name = "commit_log.txt";
-    let num_commits = 10; // Change this to the number of commits you want to make
+    let num_commits = 69; // Change this to the number of commits you want to make
 
     for i in 1..=num_commits {
         // Append a random number to the file
